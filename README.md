@@ -28,7 +28,6 @@
   <p>
     <img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,dart,haskell,php,bash&perline=10" alt="Languages" height="48" />                                                 
     <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=swi-prolog&logoColor=white" alt="Prolog" height="48" />
-    <img src="https://img.shields.io/badge/ARM%20Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Assembly" height="48" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" height="48" />
   </p>
 
