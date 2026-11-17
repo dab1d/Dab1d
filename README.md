@@ -1,7 +1,7 @@
   <h1 align="center">Hello World, I'm David </h1>
 
   <p align="center">
-    Informatics and Computing Engineering student at <a href="https://fe.up.pt">FEUP</a> · Member of <a href="https://ni.fe.up.pt">NIAEFEUP</a>
+    Informatics and Computing Engineering student at <a href="https://fe.up.pt">FEUP</a> · Member of <a href="https://nifeup.com">NIAEFEUP</a>
   </p>
 
   <p align="center">
