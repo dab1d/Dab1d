@@ -13,18 +13,18 @@
     <img src="https://github.com/user-attachments/assets/26058283-d02b-4640-84cc-ae5d7ceec6f4" alt="About me" width="600" />
   </p>
 
-  ---
+
 
   ### 🚀 What I'm working on
   - **[TTS – Time Table Selector](https://tts.niaefeup.pt)**: helping FEUP students build their class schedules.                                                                  
   - Finishing my degree in Informatics and Computing Engineering at FEUP.
   - Getting hands-on with networking and servers, building protocols in C, setting up Linux networks and self-hosting my own services.
-  ---
+
 
   ## 🛠 Tech Stack
 
   ### 💻 Languages
-  ### 💻 Languages
+
   <p>
     <img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,dart,haskell,php,bash&perline=10" alt="Languages" height="48" />                                                 
     <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=swi-prolog&logoColor=white" alt="Prolog" height="48" />
